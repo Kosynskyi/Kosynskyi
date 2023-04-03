@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=#FF6C37" style="width:200px; height:55px" />
 <img src="https://img.shields.io/badge/MongoDb-black?style=for-the-badge&logo=MongoDb&logoColor=#FF6C37" style="width:200px; height:55px" />
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=#F24E1E" style="width:200px; height:55px" />
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=#F24E1E" style="width:200px; height:55px" />
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&pause=1000&color=000000&width=1000&height=60&lines=My+code+consists+of+such+statistics)](https://git.io/typing-svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosynskyi&layout=compact)](https://github.com/kosynskyi/github-readme-stats)
